@@ -5,3 +5,7 @@ api-version: '1.21'
 authors: [ horihori2013 ]
 description: An experimental project that let roblox users to join Minecraft servers that are based on paper. Mainly built with Kotlin, but you can also contribute using Java.
 website: horihori2013.github.com
+commands:
+  mccrossroblox:
+    description: Manage MCCrossRoblox
+    usage: /<command> <link/unlink> <source> <target>
